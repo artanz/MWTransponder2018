@@ -1,40 +1,58 @@
 1x ATMEGA328P
 http://www.digikey.com/product-detail/en/microchip-technology/ATMEGA328P-AUR/ATMEGA328P-AURCT-ND/3789455
+Reference Designators : U1
 
 1x 3.3v VREG SOIC-8 (LT1763CS8-3.3)
 https://www.digikey.com/product-detail/en/linear-technology-analog-devices/LT1763CS8-3.3-PBF/LT1763CS8-3.3-PBF-ND/891881
+Reference Designators : U2
 
 2x 1k ohm 603-RES
 http://www.digikey.com/product-detail/en/RC0603JR-071KL/311-1.0KGRCT-ND/729624?cur=USD
+Reference Designators : R8, R9
 
 7x 10k ohm 603-RES
 http://www.digikey.com/product-detail/en/RC0603JR-0710KL/311-10KGRCT-ND/729647?cur=USD
+Reference Designators : R1, R2, R3, R4, R5, R6, R7
 
-5x 0.1 uF 603-CAP
+4x 0.1 uF 603-CAP
 http://www.digikey.com/product-detail/en/C1608X7R1E104K/445-1316-1-ND/567697?cur=USD
+Reference Designators : C4, C5, C6, C7
 
 1x 10uF 1206-CAP
 https://www.digikey.com/products/en?keywords=478-9944-1-ND
+Reference Designators : C2
 
 1x 1uF 603-CAP
 https://www.digikey.com/products/en?keywords=478-5010-1-ND
+Reference Designators : C1
+
+1x 0.01uF 603-CAP
+https://www.digikey.com/products/en?keywords=720-1531-1-ND
+Reference Designators : C3
 
 2x red, 1.7v 603-LED
 http://www.digikey.com/product-detail/en/SML-LX0603SRW-TR/67-1551-1-ND/304364?cur=USD
+Reference Designators : D1, D2
 
 1x CER RES 8.0000MHZ 33PF SMD (CSTCE8M00G55-R0)
 https://www.digikey.com/products/en?keywords=490-1195-1-ND
+Reference Designators : Y1
 
 2x .079" (2mm) smt female header (NPPN101BFLD-RC)
 http://www.digikey.com/product-detail/en/NPPN101BFLD-RC/S5902-10-ND/810025?cur=USD
+Reference Designators : JP1
 
 4x CONN HEADER 4POS 2.5MM VERT TIN (0022035045)
 https://www.digikey.com/products/en?keywords=WM18888-ND
+Reference Designators : J3, J4, J5, J6
 
 2x CONN HEADER PH SIDE 2POS 2MM (S2B-PH-K-S)
 https://www.digikey.com/products/en?keywords=455-1719-ND
+Reference Designators : J2, J7
 
 1x NPN Transitor (MMBT2222LT1G)
 https://www.digikey.com/product-detail/en/on-semiconductor/MMBT2222LT1G/MMBT2222LT1GOSCT-ND/1139808
+Reference Designators : Q1
 
 Pin Headers 2.54mm
+Reference Designators : J1
