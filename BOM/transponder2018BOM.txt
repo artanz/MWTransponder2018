@@ -46,10 +46,6 @@ Reference Designators : JP1
 https://www.digikey.com/products/en?keywords=WM18888-ND
 Reference Designators : J3, J4, J5, J6
 
-2x CONN HEADER PH SIDE 2POS 2MM (S2B-PH-K-S)
-https://www.digikey.com/products/en?keywords=455-1719-ND
-Reference Designators : J2, J7
-
 1x NPN Transitor (MMBT2222LT1G)
 https://www.digikey.com/product-detail/en/on-semiconductor/MMBT2222LT1G/MMBT2222LT1GOSCT-ND/1139808
 Reference Designators : Q1
